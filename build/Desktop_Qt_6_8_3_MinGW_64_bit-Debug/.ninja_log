@@ -1,0 +1,20 @@
+# ninja log v6
+782	3281	7651957168193627	CMakeFiles/untitled.dir/untitled_autogen/mocs_compilation.cpp.obj	7e856e02ca23ac89
+24	193	7651958035286123	untitled_autogen/timestamp	a72fd70ac3fcdef3
+24	193	7651958035286123	untitled_autogen/mocs_compilation.cpp	a72fd70ac3fcdef3
+24	193	7651958035286123	C:/Users/prabh/OneDrive/Documents/untitled/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/untitled_autogen/mocs_compilation.cpp	a72fd70ac3fcdef3
+24	193	7651958035286123	C:/Users/prabh/OneDrive/Documents/untitled/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/untitled_autogen/timestamp	a72fd70ac3fcdef3
+196	1759	7651957296784496	CMakeFiles/untitled.dir/main.cpp.obj	674b625fce824a7b
+196	1886	7651942297932749	CMakeFiles/untitled.dir/mainwindow.cpp.obj	a4bf21e59553c97c
+1807	2041	7651958053113045	untitled.exe	4c7c3894c7a545a8
+194	1807	7651958036978981	CMakeFiles/untitled.dir/dynamicwidget.cpp.obj	612e29fe06ee49ea
+5	35	7651883621313055	CMakeFiles/clean.additional	baedbe210acaa455
+35	49	7651883621630001	clean	577b940aee94fbd7
+36	341	7651958693654261	untitled_autogen/timestamp	a72fd70ac3fcdef3
+36	341	7651958693654261	untitled_autogen/mocs_compilation.cpp	a72fd70ac3fcdef3
+36	341	7651958693654261	C:/Users/prabh/OneDrive/Documents/untitled/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/untitled_autogen/timestamp	a72fd70ac3fcdef3
+36	341	7651958693654261	C:/Users/prabh/OneDrive/Documents/untitled/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/untitled_autogen/mocs_compilation.cpp	a72fd70ac3fcdef3
+342	3080	7651958695040697	CMakeFiles/untitled.dir/untitled_autogen/mocs_compilation.cpp.obj	7e856e02ca23ac89
+358	3126	7651958695192628	CMakeFiles/untitled.dir/main.cpp.obj	674b625fce824a7b
+370	3188	7651958695314173	CMakeFiles/untitled.dir/dynamicWidget.cpp.obj	3e6ebb2206fca6c8
+3188	3420	7651958723496780	untitled.exe	9654fa36a5cad795
